@@ -1,0 +1,20 @@
+{
+  "name": "hackerrank-7-days-of-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "print.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buketsoyhan/HackerRank-7-Days-of-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buketsoyhan/HackerRank-7-Days-of-JavaScript/issues"
+  },
+  "homepage": "https://github.com/buketsoyhan/HackerRank-7-Days-of-JavaScript#readme"
+}
